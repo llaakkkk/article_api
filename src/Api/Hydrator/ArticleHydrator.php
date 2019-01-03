@@ -13,6 +13,7 @@ class ArticleHydrator extends AbstractHydrator
         'authorName'  => true,
         'createdAt'   => true,
         'tags'        => true,
+        'tagsCount'   => true,
     ];
 
     /**

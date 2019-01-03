@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller\Api\V1;
+namespace App\Controller;
 
 use App\Api\Hydrator\AbstractHydrator;
 use App\Service\UseCase\UseCaseError;

@@ -138,7 +138,7 @@ class ArticlesEditUseCase
                 UseCaseError::$messages[UseCaseError::CODE_NOT_FOUND],
 
                 [
-                    'entity' => [
+                    'article' => [
                         'Entity::NOT_FOUND' => UseCaseError::$messages[UseCaseError::CODE_NOT_FOUND]
                     ]
                 ]

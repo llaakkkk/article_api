@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller\Api\V1;
+namespace App\Controller;
 
 use App\Api\Hydrator\ArticleHydrator;
 use App\UseCase\Articles\Create\ArticlesCreateRequest;
